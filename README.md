@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DrFineSir</h1>
 <h3 align="center">Dedicated student</h3>
 
-- 🔭 I’m currently working on **Shift**
+- 🔭 I’m currently working on **Shift**, and **JonathanPeterson.today**
 
 
 <h3 align="left">Languages and Tools:</h3>
