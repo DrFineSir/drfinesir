@@ -1,4 +1,4 @@
-Skills: Javascript, Java, CSS, HTML, C#, Python, SQL, Git. No skill
+Skills: Javascript, Java, CSS, HTML, C#, Python, SQL, Git.
 
 Other random stuff I know: React, Nuget, Node, Webpack, Storybook, Next.JS. 
 
