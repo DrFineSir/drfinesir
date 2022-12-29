@@ -2,14 +2,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=DrFineSir" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DrFineSir" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/36110242?v=4"  />
 
 ###
 
@@ -26,16 +24,13 @@
 
 ###
 
-<div align="left">
-  <a href="https://twitch.tv/drfinesir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=DrFineSir&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DrFineSir" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DrFineSir" alt="Profile Forks"></a>
 
-###
+📩・**Want to reach? Add DrFineSir#7350 on discord**
+
+
+<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/135165509426479104.png"/></a>
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/DrFineSir/DrFineSir/blob/output/snake.svg" alt="Snake animation" />
-
-###
